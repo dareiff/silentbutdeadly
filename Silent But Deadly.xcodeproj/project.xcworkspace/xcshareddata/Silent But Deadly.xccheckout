@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44D3CF58-9537-4151-B571-4F97C01169B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Silent But Deadly</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9BCAD02-8720-474F-B0BF-42D668FA342D</key>
+		<string>https://github.com/dareiff/silentbutdeadly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Silent But Deadly.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9BCAD02-8720-474F-B0BF-42D668FA342D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dareiff/silentbutdeadly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9BCAD02-8720-474F-B0BF-42D668FA342D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9BCAD02-8720-474F-B0BF-42D668FA342D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>silentbutdeadly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
